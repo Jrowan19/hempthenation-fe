@@ -5,9 +5,9 @@ const HomePage = () => {
   const [state, setState] = useState('<2%');
   return (
     <>
-      <div class="bg-light pt-5">
-        <h1 class="display-4 text-success ">HEMPTHENATION</h1>
-        <p class="lead mt-3">
+      <div class="jumbotron navbar-light">
+        <h1 class="text-success ">HEMPTHENATION</h1>
+        <p class="lead mt-3 container">
           Our Full Spectrum 5% natural CBD+CBDA In MCT carrier Oil contains
           {state} THC Legal Limit, with a minimum of 5% of CBD per 10ml bottle.
           <br />
