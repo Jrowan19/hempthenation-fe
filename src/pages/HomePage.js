@@ -5,7 +5,7 @@ const HomePage = () => {
   const [state, setState] = useState('<2%');
   return (
     <>
-      <div class="jumbotron navbar-light">
+      <div class="bg-light pt-5 w-100 ">
         <h1 class="text-success ">HEMPTHENATION</h1>
         <p class="lead mt-3 container">
           Our Full Spectrum 5% natural CBD+CBDA In MCT carrier Oil contains
