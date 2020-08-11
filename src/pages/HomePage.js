@@ -94,7 +94,7 @@ const HomePage = () => {
               </div>
             </div>
           </div>
-          <div class="col-xs-2 m-2 mx-auto responsive">
+          <div class="col-lg-3 m-2 mx-auto responsive">
             <div class="card">
               <img
                 src={require('../assets/Oil.png')}
